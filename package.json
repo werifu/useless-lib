@@ -1,0 +1,20 @@
+{
+  "name": "useless-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werifu/useless-lib.git"
+  },
+  "author": "werifu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werifu/useless-lib/issues"
+  },
+  "homepage": "https://github.com/werifu/useless-lib#readme"
+}
